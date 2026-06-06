@@ -73,7 +73,7 @@ sudo apt install libsfml-dev g++
 
 ### Compile
 ```bash
-cd fixed_sfml
+cd codeArena
 chmod +x compile.sh
 ./compile.sh
 ```
