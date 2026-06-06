@@ -98,15 +98,15 @@ chmod +x compile.sh
 | Role | Contribution |
 |------|-------------|
 | Muhammad Uzair | SFML GUI, User/Data Layer, VFS Integration |
-| Team Member 2 | *(add name)* |
-| Team Member 3 | *(add name)* |
+| Abdullah Babar |
+| Hanzla Khalid|
 
 ---
 
 ## 📚 Course
 
 **Object-Oriented Programming (CS-2001)**  
-FAST-NUCES Islamabad — Spring 2025
+FAST-NUCES Islamabad — Spring 2026
 
 ---
 
